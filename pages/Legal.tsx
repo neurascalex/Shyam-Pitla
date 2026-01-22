@@ -56,7 +56,7 @@ export const Privacy = () => (
 
     <section>
       <h2 className="text-2xl font-serif text-[#c5a059] mb-4">5. Contact Us</h2>
-      <p>If you have any questions about this policy or our data practices, please contact us at <a href="mailto:shyam@hrdigitalmedia.com" className="text-[#a3d9cf] underline">shyam@hrdigitalmedia.com</a>. You also have the right to complain to the Information Commissioner's Office (ICO) if you are unhappy with how we have used your data.</p>
+      <p>If you have any questions about this policy or our data practices, please contact us at <a href="mailto:shyam@neurascalex.com" className="text-[#a3d9cf] underline">shyam@neurascalex.com</a>. You also have the right to complain to the Information Commissioner's Office (ICO) if you are unhappy with how we have used your data.</p>
     </section>
   </LegalLayout>
 );
@@ -118,7 +118,7 @@ export const Cookies = () => (
     <section>
       <h2 className="text-2xl font-serif text-[#c5a059] mb-4">4. More Information</h2>
       <p>Hopefully that has clarified things for you. If there is something that you aren't sure whether you need or not, it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.</p>
-      <p>Email: <a href="mailto:shyam@hrdigitalmedia.com" className="text-[#a3d9cf] underline">shyam@hrdigitalmedia.com</a></p>
+      <p>Email: <a href="mailto:shyam@neurascalex.com" className="text-[#a3d9cf] underline">shyam@neurascalex.com</a></p>
     </section>
   </LegalLayout>
 );

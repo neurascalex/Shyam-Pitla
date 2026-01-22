@@ -14,7 +14,7 @@ export default function Contact() {
   });
 
   const calendarLink = "https://calendar.app.google/8kSG3vmsYcZSgDXZ8";
-  const contactEmail = "shyam@hrdigitalmedia.com";
+  const contactEmail = "shyam@neurascalex.com";
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
